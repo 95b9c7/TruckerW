@@ -4,13 +4,11 @@ autobahn==21.2.1
 Automat==22.10.0
 cffi==1.15.1
 constantly==15.1.0
-daphne==3.0.2
 Django==3.2.21
 et-xmlfile==1.1.0
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
-py3270==0.3.5
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
